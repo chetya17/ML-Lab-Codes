@@ -11,4 +11,4 @@ My name is Chetan Talele (21BCE7893) and this repository contains all codes of m
 7. Implement Support Vector Machine for digit recognition and compare the accuracy with logistic regression
 8. SVM Multiclass classification categorizing news article to sports, politics, economics, or social
 9. Assuming a set of documents that need to be classified, use the naïve Bayesian Classifier model to perform this task.
-10. Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets. K-NN and Weighted- KNN classifiers
+10. Build an Artificial Neural Network by implementing the Backpropagation algorithm and test the same using appropriate data sets.
